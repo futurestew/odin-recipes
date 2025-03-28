@@ -1,0 +1,11 @@
+
+.listOfThings {
+    color:rgb(242, 12, 12);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.recipeTitle{
+    font-style: italic;
+    color: rgb(255, 145, 0);
+}
